@@ -10,8 +10,8 @@
 
 - [Instagram](https://instagram.com/saahir.lol)
 - [TikTok](https://tiktok.com/@saahir.lol)
-- [Archive](https://instagram.com/sayheree)
-- [SoundCloud](https://soundcloud.com/sayheree)
+- [Archive](https://instagram.com/sayhereee)
+- [SoundCloud](https://soundcloud.com/sayhereee)
 - [YouTube](https://youtube.com/c/saahirlol)
 
 Check out my full portfolio on [saahir.lol](https://saahir.lol).
