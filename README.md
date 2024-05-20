@@ -20,10 +20,10 @@ Check out my full portfolio on [saahir.lol](https://saahir.lol).
 
 This GitHub account is reserved for my personal projects, which mostly involve working with [Headscale](https://github.com/juanfont/headscale) and Docker. Here are some of my repositories:
 
-- [hs-tailwings](https://github.com/saahir/hs-tailwings)
-- [hs-config](https://github.com/saahir/hs-config)
-- [iptv-pruner](https://github.com/saahir/iptv-pruner)
-- [chromeeee](https://github.com/saahir/chromeeee)
+- [hs-tailwings](https://github.com/saahirlol/hs-tailwings)
+- [hs-config](https://github.com/saahirlol/hs-config)
+- [iptv-pruner](https://github.com/saahirlol/iptv-pruner)
+- [chromeeee](https://github.com/saahirlol/chromeeee)
 
 
 ## Get in Touch
