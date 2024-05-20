@@ -1,6 +1,3 @@
-# Saahir - Creative Portfolio
-
-👋 Hi, I'm Saahir, a 17-year-old creative based in Dallas, Texas. I specialize in capturing the essence of underground concerts through my photos and videos. This GitHub account is reserved for hosting my personal projects, which mostly involve working with [Headscale](https://github.com/juanfont/headscale) and Docker.
 
 ## About Me
 
@@ -18,6 +15,16 @@
 - [YouTube](https://youtube.com/c/saahirlol)
 
 Check out my full portfolio on [saahir.lol](https://saahir.lol).
+
+## Personal Projects
+
+This GitHub account is reserved for my personal projects, which mostly involve working with [Headscale](https://github.com/juanfont/headscale) and Docker. Here are some of my repositories:
+
+- [hs-tailwings](https://github.com/saahir/hs-tailwings)
+- [hs-config](https://github.com/saahir/hs-config)
+- [iptv-pruner](https://github.com/saahir/iptv-pruner)
+- [chromeeee](https://github.com/saahir/chromeeee)
+
 
 ## Get in Touch
 
