@@ -23,7 +23,7 @@ This GitHub account is reserved for my personal projects, which mostly involve w
 - [hs-tailwings](https://github.com/saahirlol/hs-tailwings)
 - [hs-config](https://github.com/saahirlol/hs-config)
 - [iptv-pruner](https://github.com/saahirlol/iptv-pruner)
-- [chromeeee](https://github.com/saahirlol/chromeeee)
+- [chromeeee](https://github.com/saahirlol/chromee)
 
 
 ## Get in Touch
